@@ -3,9 +3,9 @@
     University Compus Management System
   </h1>
   <br />
-    <a href="https://youtu.be/O5cmLDVTgAs?feature=shared" target="_blank">
+    <div>
       <img src="./public/images/homepage.png" alt="Project Banner">
-    </a>
+    </div>
   <br />
 
   <div>
